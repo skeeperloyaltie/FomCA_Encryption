@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "cwd": "/Users/shabina/Downloads/FoMCA Encryption Assignment 2021-22 - Starter Code(2)-2",
+      "environment": [],
+      "program": "/Users/shabina/Downloads/FoMCA Encryption Assignment 2021-22 - Starter Code(2)-2/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "lldb",
+      "externalConsole": true
+    }
+  ]
+}
